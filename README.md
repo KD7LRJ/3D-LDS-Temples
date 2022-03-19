@@ -7,4 +7,11 @@ These files have been placed here with Hugh's permission in hopes that this repo
 
 The LDS Temples included are drawn from photographs and were drawn with AutoCad 11, solid modeling.
 
-For now, please place comments, etc. in the Issues section here on Github.
+## Downloads
+To __download all__ files use the green "Code" button and choose "download ZIP"
+
+To __download individual__ files:
+
+1. Navigate to the list of files in the STL directory
+2. Click on the filename to open it up
+3. Click the download button
