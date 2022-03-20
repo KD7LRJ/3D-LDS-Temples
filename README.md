@@ -15,3 +15,281 @@ To __download individual__ files:
 1. Navigate to the list of files in the STL directory
 2. Click on the filename to open it up
 3. Click the download button
+
+
+## List of temples
+    * Announced/under construction
+    ** Under renovation
+    [x] = model is available in this repo
+    [ ] = model comming soon
+
+- [x] Aba Nigeria Temple
+- [ ] Abidjan Ivory Coast Temple*
+- [x] Accra Ghana Temple
+- [x] Adelaide Australia Temple
+- [x] Alabang Philippines Temple*
+- [x] Albuquerque New Mexico Temple
+- [x] Anchorage Alaska Temple
+- [ ] Antananarivo Madagascar Temple*
+- [ ] Antofagasta Chile Temple*
+- [x] Apia Samoa Temple
+- [x] Arequipa Peru Temple
+- [x] Asunción Paraguay Temple
+- [x] Atlanta Georgia Temple
+- [x] Auckland New Zealand Temple*
+- [ ] Bacolod Philippines Temple*
+- [ ] Bahía Blanca Argentina Temple*
+- [ ] Bangkok Thailand Temple*
+- [x] Barranquilla Colombia Temple
+- [x] Baton Rouge Louisiana Temple
+- [ ] Beira Mozambique Temple*
+- [ ] Belém Brazil Temple*
+- [ ] Belo Horizonte Brazil Temple*
+- [ ] Bengaluru India Temple*
+- [ ] Benin City Nigeria Temple*
+- [ ] Bentonville Arkansas Temple*
+- [x] Bern Switzerland Temple
+- [x] Billings Montana Temple
+- [x] Birmingham Alabama Temple
+- [x] Bismarck North Dakota Temple
+- [x] Bogotá Colombia Temple
+- [x] Boise Idaho Temple
+- [x] Boston Massachusetts Temple
+- [x] Bountiful Utah Temple
+- [ ] Brasília Brazil Temple*
+- [x] Brigham City Utah Temple
+- [x] Brisbane Australia Temple
+- [ ] Brussels Belgium Temple*
+- [ ] Budapest Hungary Temple*
+- [x] Buenos Aires Argentina Temple
+- [ ] Burley Idaho Temple*
+- [ ] Cagayan de Oro Philippines Temple*
+- [x] Calgary Alberta Temple
+- [ ] Cali Colombia Temple*
+- [x] Campinas Brazil Temple
+- [ ] Cape Town South Africa Temple*
+- [x] Caracas Venezuela Temple
+- [x] Cardston Alberta Temple
+- [ ] Casper Wyoming Temple*
+- [x] Cebu City Philippines Temple
+- [x] Cedar City Utah Temple
+- [x] Chicago Illinois Temple
+- [x] Ciudad Juárez Mexico Temple
+- [ ] Cobán Guatemala Temple*
+- [x] Cochabamba Bolivia Temple
+- [ ] Cody Wyoming Temple*
+- [x] Colonia Juárez Chihuahua Mexico Temple
+- [x] Columbia River Washington Temple
+- [x] Columbia South Carolina Temple
+- [x] Columbus Ohio Temple**
+- [x] Concepción Chile Temple
+- [x] Copenhagen Denmark Temple
+- [x] Córdoba Argentina Temple
+- [ ] Culiacán Mexico Temple*
+- [x] Curitiba Brazil Temple
+- [x] Dallas Texas Temple
+- [ ] Davao Philippines Temple*
+- [x] Denver Colorado Temple
+- [ ] Deseret Peak Utah Temple*
+- [x] Detroit Michigan Temple
+- [x] Draper Utah Temple
+- [ ] Dubai United Arab Emirates Temple*
+- [x] Durban South Africa Temple
+- [x] Edmonton Alberta Temple
+- [ ] Elko Nevada Temple*
+- [ ] Ephraim Utah Temple*
+- [ ] Farmington New Mexico Temple*
+- [ ] Feather River California Temple*
+- [x] Fort Collins Colorado Temple
+- [x] Fort Lauderdale Florida Temple
+- [ ] Fort Worth Texas Temple*
+- [x] Fortaleza Brazil Temple
+- [x] Frankfurt Germany Temple
+- [ ] Freetown Sierra Leone Temple*
+- [x] Freiberg Germany Temple
+- [x] Fresno California Temple
+- [x] Fukuoka Japan Temple
+- [x] Gila Valley Arizona Temple, The
+- [x] Gilbert Arizona Temple
+- [ ] Grand Junction Colorado Temple*
+- [ ] Greater Guatemala City Temple*
+- [x] Guadalajara Mexico Temple
+- [x] Guatemala City Guatemala Temple
+- [x] Guayaquil Ecuador Temple
+- [x] Halifax Nova Scotia Temple
+- [x] Hamilton New Zealand Temple**
+- [ ] Harare Zimbabwe Temple*
+- [x] Hartford Connecticut Temple
+- [x] Hague Netherlands Temple, The
+- [ ] Heber Valley Utah Temple*
+- [ ] Helena Montana Temple*
+- [x] Helsinki Finland Temple
+- [x] Hermosillo Sonora Mexico Temple
+- [x] Hong Kong China Temple**
+- [x] Houston Texas Temple
+- [x] Idaho Falls Idaho Temple
+- [x] Indianapolis Indiana Temple
+- [x] Johannesburg South Africa Temple
+- [x] Jordan River Utah Temple
+- [ ] Kananga Democratic Republic of the Congo Temple*
+- [x] Kansas City Missouri Temple
+- [ ] Kaohsiung Taiwan Temple*
+- [x] Kinshasa Democratic Republic of the Congo Temple
+- [x] Kirtland Temple
+- [x] Kona Hawaii Temple
+- [ ] Kumasi Ghana Temple*
+- [x] Kyiv Ukraine Temple
+- [ ] La Paz Bolivia Temple*
+- [ ] Lagos Nigeria Temple*
+- [x] Laie Hawaii Temple
+- [x] Las Vegas Nevada Temple
+- [x] Layton Utah Temple*
+- [ ] Lima Peru Los Olivos Temple*
+- [x] Lima Peru Temple
+- [ ] Lindon Utah Temple*
+- [x] Lisbon Portugal Temple
+- [x] Logan Utah Temple
+- [x] London England Temple
+- [x] Los Angeles California Temple
+- [x] Louisville Kentucky Temple
+- [x] Lubbock Texas Temple
+- [ ] Lubumbashi Democratic Republic of the Congo Temple*
+- [x] Madrid Spain Temple
+- [ ] Managua Nicaragua Temple*
+- [x] Manaus Brazil Temple
+- [x] Manhattan New York Temple
+- [x] Manila Philippines Temple
+- [x] Manti Utah Temple**
+- [ ] McAllen Texas Temple*
+- [x] Medford Oregon Temple
+- [x] Melbourne Australia Temple
+- [x] Memphis Tennessee Temple
+- [ ] Mendoza Argentina Temple*
+- [x] Mérida Mexico Temple
+- [x] Meridian Idaho Temple
+- [x] Mesa Arizona Temple
+- [x] Mexico City Mexico Temple
+- [ ] Monrovia Liberia Temple*
+- [x] Monterrey Mexico Temple
+- [x] Montevideo Uruguay Temple
+- [x] Monticello Utah Temple
+- [x] Montreal Quebec Temple
+- [x] Moses Lake Washington Temple*
+- [x] Mount Timpanogos Utah Temple
+- [ ] Nairobi Kenya Temple*
+- [x] Nashville Tennessee Temple
+- [x] Nauvoo Illinois Temple
+- [ ] Neiafu Tonga Temple*
+- [x] Newport Beach California Temple
+- [x] Nuku'alofa Tonga Temple
+- [x] Oakland California Temple
+- [x] Oaxaca Mexico Temple
+- [x] Ogden Utah Temple
+- [ ] Okinawa Japan Temple*
+- [x] Oklahoma City Oklahoma Temple
+- [x] Oquirrh Mountain Utah Temple
+- [ ] Orem Utah Temple*
+- [x] Orlando Florida Temple
+- [ ] Oslo Norway Temple*
+- [ ] Pago Pago American Samoa Temple*
+- [x] Palmyra New York Temple
+- [x] Panama City Panama Temple
+- [x] Papeete Tahiti Temple
+- [x] Paris France Temple
+- [x] Payson Utah Temple
+- [x] Perth Australia Temple
+- [x] Philadelphia Pennsylvania Temple
+- [ ] Phnom Penh Cambodia Temple*
+- [x] Phoenix Arizona Temple
+- [ ] Pittsburgh Pennsylvania Temple*
+- [x] Pocatello Idaho Temple
+- [ ] Port Moresby Papua New Guinea Temple*
+- [ ] Port Vila Vanuatu Temple*
+- [x] Port-au-Prince Haiti Temple
+- [x] Portland Oregon Temple
+- [x] Porto Alegre Brazil Temple
+- [ ] Praia Cape Verde Temple*
+- [x] Preston England Temple
+- [x] Provo City Center Temple
+- [x] Provo Utah Temple
+- [ ] Puebla Mexico Temple*
+- [ ] Querétaro Mexico Temple*
+- [x] Quetzaltenango Guatemala Temple
+- [ ] Quito Ecuador Temple*
+- [x] Raleigh North Carolina Temple
+- [x] Recife Brazil Temple
+- [ ] Red Cliffs Utah Temple*
+- [x] Redlands California Temple
+- [x] Regina Saskatchewan Temple
+- [x] Reno Nevada Temple
+- [ ] Rexburg Idaho North Temple*
+- [x] Rexburg Idaho Temple
+- [ ] Richmond Virginia Temple*
+- [x] Rio de Janeiro Brazil Temple*
+- [x] Rome Italy Temple
+- [ ] Russia Temple*
+- [x] Sacramento California Temple
+- [x] Salt Lake Temple**
+- [ ] Salta Argentina Temple*
+- [ ] Salvador Brazil Temple*
+- [x] San Antonio Texas Temple
+- [x] San Diego California Temple
+- [x] San José Costa Rica Temple
+- [x] San Juan Puerto Rico Temple*
+- [ ] San Pedro Sula Honduras Temple*
+- [x] San Salvador El Salvador Temple
+- [ ] Santa Cruz Bolivia Temple*
+- [x] Santiago Chile Temple
+- [ ] Santiago Chile West Temple*
+- [x] Santo Domingo Dominican Republic Temple
+- [ ] São Paulo Brazil East Temple*
+- [x] São Paulo Brazil Temple
+- [x] Sapporo Japan Temple
+- [x] Saratoga Springs Utah Temple*
+- [x] Seattle Washington Temple
+- [x] Seoul Korea Temple
+- [ ] Shanghai People's Republic of China Temple*
+- [ ] Singapore Republic of Singapore Temple*
+- [ ] Smithfield Utah Temple*
+- [x] Snowflake Arizona Temple
+- [x] Spokane Washington Temple
+- [x] St. George Utah Temple**
+- [x] St. Louis Missouri Temple
+- [x] St. Paul Minnesota Temple
+- [x] Star Valley Wyoming Temple
+- [x] Stockholm Sweden Temple
+- [x] Suva Fiji Temple
+- [x] Sydney Australia Temple
+- [ ] Syracuse Utah Temple*
+- [ ] Tacloban City Philippines Temple*
+- [x] Taipei Taiwan Temple
+- [ ] Tallahassee Florida Temple*
+- [x] Tampico Mexico Temple
+- [ ] Tarawa Kiribati Temple*
+- [ ] Taylorsville Utah Temple*
+- [x] Tegucigalpa Honduras Temple
+- [x] Tijuana Mexico Temple
+- [x] Tokyo Japan Temple**
+- [x] Toronto Ontario Temple
+- [ ] Torreón Mexico Temple*
+- [x] Trujillo Peru Temple
+- [x] Tucson Arizona Temple
+- [x] Tuxtla Gutiérrez Mexico Temple
+- [x] Twin Falls Idaho Temple
+- [x] Urdaneta Philippines Temple*
+- [x] Vancouver British Columbia Temple
+- [x] Veracruz Mexico Temple
+- [x] Vernal Utah Temple
+- [ ] Vienna Austria Temple*
+- [x] Villahermosa Mexico Temple
+- [ ] Vitória Brazil Temple*
+- [x] Washington D.C. Temple**
+- [ ] Willamette Valley Oregon Temple*
+- [ ] Winnipeg Manitoba Temple
+- [ ] Winter Quarters Nebraska Temple
+- [ ] Yigo Guam Temple*
+- [ ] Yorba Linda California Temple*
+
+#### Total
+- [x] 178
+- [ ] 89
