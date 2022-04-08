@@ -1,4 +1,4 @@
-# 3D-temples
+# 3D-LDS-Temples
 3D models of temples of The Church of Jesus Christ of Latter-Day Saints
 
 Currently (2022-03-18) all of these files were created and by Hugh Lyman and being organized here to facilitate their mantenance and sharing as the original reposity (Thingiverse) has been unstable.
