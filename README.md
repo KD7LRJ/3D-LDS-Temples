@@ -20,276 +20,294 @@ To __download individual__ files:
 ## List of temples
     * Announced/under construction
     ** Under renovation
-    [x] = model is available in this repo
-    [ ] = model comming soon
+    ✅ = model is available in this repo
 
-- [x] Aba Nigeria Temple
-- [ ] Abidjan Ivory Coast Temple*
-- [x] Accra Ghana Temple
-- [x] Adelaide Australia Temple
-- [x] Alabang Philippines Temple*
-- [x] Albuquerque New Mexico Temple
-- [x] Anchorage Alaska Temple
-- [ ] Antananarivo Madagascar Temple*
-- [ ] Antofagasta Chile Temple*
-- [x] Apia Samoa Temple
-- [x] Arequipa Peru Temple
-- [x] Asunción Paraguay Temple
-- [x] Atlanta Georgia Temple
-- [x] Auckland New Zealand Temple*
-- [ ] Bacolod Philippines Temple*
-- [ ] Bahía Blanca Argentina Temple*
-- [ ] Bangkok Thailand Temple*
-- [x] Barranquilla Colombia Temple
-- [x] Baton Rouge Louisiana Temple
-- [ ] Beira Mozambique Temple*
-- [ ] Belém Brazil Temple*
-- [ ] Belo Horizonte Brazil Temple*
-- [ ] Bengaluru India Temple*
-- [ ] Benin City Nigeria Temple*
-- [ ] Bentonville Arkansas Temple*
-- [x] Bern Switzerland Temple
-- [x] Billings Montana Temple
-- [x] Birmingham Alabama Temple
-- [x] Bismarck North Dakota Temple
-- [x] Bogotá Colombia Temple
-- [x] Boise Idaho Temple
-- [x] Boston Massachusetts Temple
-- [x] Bountiful Utah Temple
-- [ ] Brasília Brazil Temple*
-- [x] Brigham City Utah Temple
-- [x] Brisbane Australia Temple
-- [ ] Brussels Belgium Temple*
-- [ ] Budapest Hungary Temple*
-- [x] Buenos Aires Argentina Temple
-- [ ] Burley Idaho Temple*
-- [ ] Cagayan de Oro Philippines Temple*
-- [x] Calgary Alberta Temple
-- [ ] Cali Colombia Temple*
-- [x] Campinas Brazil Temple
-- [ ] Cape Town South Africa Temple*
-- [x] Caracas Venezuela Temple
-- [x] Cardston Alberta Temple
-- [ ] Casper Wyoming Temple*
-- [x] Cebu City Philippines Temple
-- [x] Cedar City Utah Temple
-- [x] Chicago Illinois Temple
-- [x] Ciudad Juárez Mexico Temple
-- [ ] Cobán Guatemala Temple*
-- [x] Cochabamba Bolivia Temple
-- [ ] Cody Wyoming Temple*
-- [x] Colonia Juárez Chihuahua Mexico Temple
-- [x] Columbia River Washington Temple
-- [x] Columbia South Carolina Temple
-- [x] Columbus Ohio Temple**
-- [x] Concepción Chile Temple
-- [x] Copenhagen Denmark Temple
-- [x] Córdoba Argentina Temple
-- [ ] Culiacán Mexico Temple*
-- [x] Curitiba Brazil Temple
-- [x] Dallas Texas Temple
-- [ ] Davao Philippines Temple*
-- [x] Denver Colorado Temple
-- [ ] Deseret Peak Utah Temple*
-- [x] Detroit Michigan Temple
-- [x] Draper Utah Temple
-- [ ] Dubai United Arab Emirates Temple*
-- [x] Durban South Africa Temple
-- [x] Edmonton Alberta Temple
-- [ ] Elko Nevada Temple*
-- [ ] Ephraim Utah Temple*
-- [ ] Farmington New Mexico Temple*
-- [ ] Feather River California Temple*
-- [x] Fort Collins Colorado Temple
-- [x] Fort Lauderdale Florida Temple
-- [ ] Fort Worth Texas Temple*
-- [x] Fortaleza Brazil Temple
-- [x] Frankfurt Germany Temple
-- [ ] Freetown Sierra Leone Temple*
-- [x] Freiberg Germany Temple
-- [x] Fresno California Temple
-- [x] Fukuoka Japan Temple
-- [x] Gila Valley Arizona Temple, The
-- [x] Gilbert Arizona Temple
-- [ ] Grand Junction Colorado Temple*
-- [ ] Greater Guatemala City Temple*
-- [x] Guadalajara Mexico Temple
-- [x] Guatemala City Guatemala Temple
-- [x] Guayaquil Ecuador Temple
-- [x] Halifax Nova Scotia Temple
-- [x] Hamilton New Zealand Temple**
-- [ ] Harare Zimbabwe Temple*
-- [x] Hartford Connecticut Temple
-- [x] Hague Netherlands Temple, The
-- [ ] Heber Valley Utah Temple*
-- [ ] Helena Montana Temple*
-- [x] Helsinki Finland Temple
-- [x] Hermosillo Sonora Mexico Temple
-- [x] Hong Kong China Temple**
-- [x] Houston Texas Temple
-- [x] Idaho Falls Idaho Temple
-- [x] Indianapolis Indiana Temple
-- [x] Johannesburg South Africa Temple
-- [x] Jordan River Utah Temple
-- [ ] Kananga Democratic Republic of the Congo Temple*
-- [x] Kansas City Missouri Temple
-- [ ] Kaohsiung Taiwan Temple*
-- [x] Kinshasa Democratic Republic of the Congo Temple
-- [x] Kirtland Temple
-- [x] Kona Hawaii Temple
-- [ ] Kumasi Ghana Temple*
-- [x] Kyiv Ukraine Temple
-- [ ] La Paz Bolivia Temple*
-- [ ] Lagos Nigeria Temple*
-- [x] Laie Hawaii Temple
-- [x] Las Vegas Nevada Temple
-- [x] Layton Utah Temple*
-- [ ] Lima Peru Los Olivos Temple*
-- [x] Lima Peru Temple
-- [ ] Lindon Utah Temple*
-- [x] Lisbon Portugal Temple
-- [x] Logan Utah Temple
-- [x] London England Temple
-- [x] Los Angeles California Temple
-- [x] Louisville Kentucky Temple
-- [x] Lubbock Texas Temple
-- [ ] Lubumbashi Democratic Republic of the Congo Temple*
-- [x] Madrid Spain Temple
-- [ ] Managua Nicaragua Temple*
-- [x] Manaus Brazil Temple
-- [x] Manhattan New York Temple
-- [x] Manila Philippines Temple
-- [x] Manti Utah Temple**
-- [ ] McAllen Texas Temple*
-- [x] Medford Oregon Temple
-- [x] Melbourne Australia Temple
-- [x] Memphis Tennessee Temple
-- [ ] Mendoza Argentina Temple*
-- [x] Mérida Mexico Temple
-- [x] Meridian Idaho Temple
-- [x] Mesa Arizona Temple
-- [x] Mexico City Mexico Temple
-- [ ] Monrovia Liberia Temple*
-- [x] Monterrey Mexico Temple
-- [x] Montevideo Uruguay Temple
-- [x] Monticello Utah Temple
-- [x] Montreal Quebec Temple
-- [x] Moses Lake Washington Temple*
-- [x] Mount Timpanogos Utah Temple
-- [ ] Nairobi Kenya Temple*
-- [x] Nashville Tennessee Temple
-- [x] Nauvoo Illinois Temple
-- [ ] Neiafu Tonga Temple*
-- [x] Newport Beach California Temple
-- [x] Nuku'alofa Tonga Temple
-- [x] Oakland California Temple
-- [x] Oaxaca Mexico Temple
-- [x] Ogden Utah Temple
-- [ ] Okinawa Japan Temple*
-- [x] Oklahoma City Oklahoma Temple
-- [x] Oquirrh Mountain Utah Temple
-- [ ] Orem Utah Temple*
-- [x] Orlando Florida Temple
-- [ ] Oslo Norway Temple*
-- [ ] Pago Pago American Samoa Temple*
-- [x] Palmyra New York Temple
-- [x] Panama City Panama Temple
-- [x] Papeete Tahiti Temple
-- [x] Paris France Temple
-- [x] Payson Utah Temple
-- [x] Perth Australia Temple
-- [x] Philadelphia Pennsylvania Temple
-- [ ] Phnom Penh Cambodia Temple*
-- [x] Phoenix Arizona Temple
-- [ ] Pittsburgh Pennsylvania Temple*
-- [x] Pocatello Idaho Temple
-- [ ] Port Moresby Papua New Guinea Temple*
-- [ ] Port Vila Vanuatu Temple*
-- [x] Port-au-Prince Haiti Temple
-- [x] Portland Oregon Temple
-- [x] Porto Alegre Brazil Temple
-- [ ] Praia Cape Verde Temple*
-- [x] Preston England Temple
-- [x] Provo City Center Temple
-- [x] Provo Utah Temple
-- [ ] Puebla Mexico Temple*
-- [ ] Querétaro Mexico Temple*
-- [x] Quetzaltenango Guatemala Temple
-- [ ] Quito Ecuador Temple*
-- [x] Raleigh North Carolina Temple
-- [x] Recife Brazil Temple
-- [ ] Red Cliffs Utah Temple*
-- [x] Redlands California Temple
-- [x] Regina Saskatchewan Temple
-- [x] Reno Nevada Temple
-- [ ] Rexburg Idaho North Temple*
-- [x] Rexburg Idaho Temple
-- [ ] Richmond Virginia Temple*
-- [x] Rio de Janeiro Brazil Temple*
-- [x] Rome Italy Temple
-- [ ] Russia Temple*
-- [x] Sacramento California Temple
-- [x] Salt Lake Temple**
-- [ ] Salta Argentina Temple*
-- [ ] Salvador Brazil Temple*
-- [x] San Antonio Texas Temple
-- [x] San Diego California Temple
-- [x] San José Costa Rica Temple
-- [x] San Juan Puerto Rico Temple*
-- [ ] San Pedro Sula Honduras Temple*
-- [x] San Salvador El Salvador Temple
-- [ ] Santa Cruz Bolivia Temple*
-- [x] Santiago Chile Temple
-- [ ] Santiago Chile West Temple*
-- [x] Santo Domingo Dominican Republic Temple
-- [ ] São Paulo Brazil East Temple*
-- [x] São Paulo Brazil Temple
-- [x] Sapporo Japan Temple
-- [x] Saratoga Springs Utah Temple*
-- [x] Seattle Washington Temple
-- [x] Seoul Korea Temple
-- [ ] Shanghai People's Republic of China Temple*
-- [ ] Singapore Republic of Singapore Temple*
-- [ ] Smithfield Utah Temple*
-- [x] Snowflake Arizona Temple
-- [x] Spokane Washington Temple
-- [x] St. George Utah Temple**
-- [x] St. Louis Missouri Temple
-- [x] St. Paul Minnesota Temple
-- [x] Star Valley Wyoming Temple
-- [x] Stockholm Sweden Temple
-- [x] Suva Fiji Temple
-- [x] Sydney Australia Temple
-- [ ] Syracuse Utah Temple*
-- [ ] Tacloban City Philippines Temple*
-- [x] Taipei Taiwan Temple
-- [ ] Tallahassee Florida Temple*
-- [x] Tampico Mexico Temple
-- [ ] Tarawa Kiribati Temple*
-- [ ] Taylorsville Utah Temple*
-- [x] Tegucigalpa Honduras Temple
-- [x] Tijuana Mexico Temple
-- [x] Tokyo Japan Temple**
-- [x] Toronto Ontario Temple
-- [ ] Torreón Mexico Temple*
-- [x] Trujillo Peru Temple
-- [x] Tucson Arizona Temple
-- [x] Tuxtla Gutiérrez Mexico Temple
-- [x] Twin Falls Idaho Temple
-- [x] Urdaneta Philippines Temple*
-- [x] Vancouver British Columbia Temple
-- [x] Veracruz Mexico Temple
-- [x] Vernal Utah Temple
-- [ ] Vienna Austria Temple*
-- [x] Villahermosa Mexico Temple
-- [ ] Vitória Brazil Temple*
-- [x] Washington D.C. Temple**
-- [ ] Willamette Valley Oregon Temple*
-- [ ] Winnipeg Manitoba Temple
-- [ ] Winter Quarters Nebraska Temple
-- [ ] Yigo Guam Temple*
-- [ ] Yorba Linda California Temple*
-
-#### Total
-- [x] 178
-- [ ] 89
+| STL | Name | Location | State - Date |
+| -- | -- | -- | -- |
+| ✅ | [Aba Nigeria Temple](https://www.churchofjesuschrist.org/temples/details/aba-nigeria-temple?lang=eng) | Aba, Abia, Nigeria | Dedicated 7 August 2005 |
+| | [Abidjan Ivory Coast Temple](https://www.churchofjesuschrist.org/temples/details/abidjan-ivory-coast-temple?lang=eng) | Abidjan, Ivory Coast | Construction |
+| ✅ | [Accra Ghana Temple](https://www.churchofjesuschrist.org/temples/details/accra-ghana-temple?lang=eng) | Accra, Greater Accra, Ghana | Dedicated 11 January 2004 |
+| ✅ | [Adelaide Australia Temple](https://www.churchofjesuschrist.org/temples/details/adelaide-australia-temple?lang=eng) | Marden, South Australia, Australia | Dedicated 15 June 2000 |
+| ✅ | [Alabang Philippines Temple](https://www.churchofjesuschrist.org/temples/details/alabang-philippines-temple?lang=eng) | Manila, Philippines | Construction |
+| ✅ | [Albuquerque New Mexico Temple](https://www.churchofjesuschrist.org/temples/details/albuquerque-new-mexico-temple?lang=eng) | Albuquerque, New Mexico, United States | Dedicated 5 March 2000 |
+| ✅ | [Anchorage Alaska Temple](https://www.churchofjesuschrist.org/temples/details/anchorage-alaska-temple?lang=eng) | Anchorage, Alaska, United States | Dedicated 9 January 1999 |
+| | [Antananarivo Madagascar Temple](https://www.churchofjesuschrist.org/temples/details/antananarivo-madagascar-temple?lang=eng) | | Announced |
+| | [Antofagasta Chile Temple](https://www.churchofjesuschrist.org/temples/details/antofagasta-chile-temple?lang=eng) | | Construction |
+| ✅ | [Apia Samoa Temple](https://www.churchofjesuschrist.org/temples/details/apia-samoa-temple?lang=eng) | Apia, Pesega, Samoa | Dedicated 5 August 1983 |
+| ✅ | [Arequipa Peru Temple](https://www.churchofjesuschrist.org/temples/details/arequipa-peru-temple?lang=eng) | Arequipa, Peru | Dedicated 15 December 2019 |
+| ✅ | [Asunción Paraguay Temple](https://www.churchofjesuschrist.org/temples/details/asuncion-paraguay-temple?lang=eng) | Asunción, Alto Paraguay, Paraguay | Dedicated 19 May 2002 |
+| ✅ | [Atlanta Georgia Temple](https://www.churchofjesuschrist.org/temples/details/atlanta-georgia-temple?lang=eng) | Sandy Springs, Georgia, United States | Dedicated 1 June 1983 |
+| ✅ | [Auckland New Zealand Temple](https://www.churchofjesuschrist.org/temples/details/auckland-new-zealand-temple?lang=eng) | | Construction |
+| | [Austin Texas Temple](https://www.churchofjesuschrist.org/temples/details/austin-texas-temple?lang=eng) | | Announced |
+| | [Bacolod Philippines Temple](https://www.churchofjesuschrist.org/temples/details/bacolod-philippines-temple?lang=eng) | | Construction |
+| | [Bahía Blanca Argentina Temple](https://www.churchofjesuschrist.org/temples/details/bahia-blanca-argentina-temple?lang=eng) | | Announced |
+| | [Bangkok Thailand Temple](https://www.churchofjesuschrist.org/temples/details/bangkok-thailand-temple?lang=eng) | Bangkok, Thailand | Construction |
+| | [Barcelona Spain Temple](https://www.churchofjesuschrist.org/temples/details/barcelona-spain-temple?lang=eng) | | Announced |
+| ✅ | [Barranquilla Colombia Temple](https://www.churchofjesuschrist.org/temples/details/barranquilla-colombia-temple?lang=eng) | Barranquilla, Colombia | Dedicated 9 December 2018 |
+| ✅ | [Baton Rouge Louisiana Temple](https://www.churchofjesuschrist.org/temples/details/baton-rouge-louisiana-temple?lang=eng) | Baton Rouge, Louisiana, United States | Dedicated 16 July 2000 |
+| | [Beira Mozambique Temple](https://www.churchofjesuschrist.org/temples/details/beira-mozambique-temple?lang=eng) | | Announced |
+| | [Belém Brazil Temple](https://www.churchofjesuschrist.org/temples/details/belem-brazil-temple?lang=eng) | Belém Brazil | Construction |
+| | [Belo Horizonte Brazil Temple](https://www.churchofjesuschrist.org/temples/details/belo-horizonte-brazil-temple?lang=eng) | | Announced |
+| | [Bengaluru India Temple](https://www.churchofjesuschrist.org/temples/details/bengaluru-india-temple?lang=eng) | | Construction |
+| | [Benin City Nigeria Temple](https://www.churchofjesuschrist.org/temples/details/benin-city-nigeria-temple?lang=eng) | | Announced |
+| | [Bentonville Arkansas Temple](https://www.churchofjesuschrist.org/temples/details/bentonville-arkansas-temple?lang=eng) | | Construction |
+| ✅ | [Bern Switzerland Temple](https://www.churchofjesuschrist.org/temples/details/bern-switzerland-temple?lang=eng) | Zollikofen, Bern, Switzerland | Dedicated 11 September 1955 |
+| ✅ | [Billings Montana Temple](https://www.churchofjesuschrist.org/temples/details/billings-montana-temple?lang=eng) | Billings, Montana, United States | Dedicated 20 November 1999 |
+| ✅ | [Birmingham Alabama Temple](https://www.churchofjesuschrist.org/temples/details/birmingham-alabama-temple?lang=eng) | Gardendale, Alabama, United States | Dedicated 3 September 2000 |
+| ✅ | [Birmingham United Kingdom Temple](https://www.churchofjesuschrist.org/temples/details/birmingham-united-kingdom-temple?lang=eng) | | Announced |
+| ✅ | [Bismarck North Dakota Temple](https://www.churchofjesuschrist.org/temples/details/bismarck-north-dakota-temple?lang=eng) | Bismarck, North Dakota, United States | Dedicated 19 September 1999 |
+| ✅ | [Bogotá Colombia Temple](https://www.churchofjesuschrist.org/temples/details/bogota-colombia-temple?lang=eng) | Bogotá, Distrito Capital, Colombia | Dedicated 24 April 1999 |
+| ✅ | [Boise Idaho Temple](https://www.churchofjesuschrist.org/temples/details/boise-idaho-temple?lang=eng) | Boise, Idaho, United States | Dedicated 25 May 1984 |
+| ✅ | [Boston Massachusetts Temple](https://www.churchofjesuschrist.org/temples/details/boston-massachusetts-temple?lang=eng) | Belmont, Massachusetts, United States | Dedicated 1 October 2000 |
+| ✅ | [Bountiful Utah Temple](https://www.churchofjesuschrist.org/temples/details/bountiful-utah-temple?lang=eng) | Bountiful, Utah, United States | Dedicated 8 January 1995 |
+| | [Brasília Brazil Temple](https://www.churchofjesuschrist.org/temples/details/brasilia-brazil-temple?lang=eng) | Brasilia, Brazil | Construction |
+| | [Brazzaville Republic of the Congo Temple](https://www.churchofjesuschrist.org/temples/details/brazzaville-republic-of-the-congo-temple?lang=eng) | | Announced |
+| ✅ | [Brigham City Utah Temple](https://www.churchofjesuschrist.org/temples/details/brigham-city-utah-temple?lang=eng) | Brigham City, Utah, United States | Dedicated 23 September 2012 |
+| ✅ | [Brisbane Australia Temple](https://www.churchofjesuschrist.org/temples/details/brisbane-australia-temple?lang=eng) | Kangaroo Point, Queensland, Australia | Dedicated 15 June 2003 |
+| | [Brussels Belgium Temple](https://www.churchofjesuschrist.org/temples/details/brussels-belgium-temple?lang=eng) | | Announced |
+| | [Budapest Hungary Temple](https://www.churchofjesuschrist.org/temples/details/budapest-hungary-temple?lang=eng) | | Announced |
+| ✅ | [Buenos Aires Argentina Temple](https://www.churchofjesuschrist.org/temples/details/buenos-aires-argentina-temple?lang=eng) | Ciudad Evita, Buenos Aires, Argentina | Dedicated 17 January 1986 |
+| | [Burley Idaho Temple](https://www.churchofjesuschrist.org/temples/details/burley-idaho-temple?lang=eng) | | Announced |
+| | [Cagayan de Oro Philippines Temple](https://www.churchofjesuschrist.org/temples/details/cagayan-de-oro-philippines-temple?lang=eng) | | Announced |
+| ✅ | [Calgary Alberta Temple](https://www.churchofjesuschrist.org/temples/details/calgary-alberta-temple?lang=eng) | Calgary, Alberta, Canada | Dedicated 28 October 2012 |
+| | [Cali Colombia Temple](https://www.churchofjesuschrist.org/temples/details/cali-colombia-temple?lang=eng) | | Announced |
+| ✅ | [Campinas Brazil Temple](https://www.churchofjesuschrist.org/temples/details/campinas-brazil-temple?lang=eng) | Campinas, Sao Paulo, Brazil | Dedicated 17 May 2002 |
+| | [Cape Town South Africa Temple](https://www.churchofjesuschrist.org/temples/details/cape-town-south-africa-temple?lang=eng) | | Announced |
+| ✅ | [Caracas Venezuela Temple](https://www.churchofjesuschrist.org/temples/details/caracas-venezuela-temple?lang=eng) | Caracas, Dependencias Federales, Venezuela | Dedicated 20 August 2000 |
+| ✅ | [Cardston Alberta Temple](https://www.churchofjesuschrist.org/temples/details/cardston-alberta-temple?lang=eng) | Cardston, Alberta, Canada | Dedicated 26 August 1923 |
+| | [Casper Wyoming Temple](https://www.churchofjesuschrist.org/temples/details/casper-wyoming-temple?lang=eng) | | Construction |
+| ✅ | [Cebu City Philippines Temple](https://www.churchofjesuschrist.org/temples/details/cebu-city-philippines-temple?lang=eng) | Cebu City, Cebu, Philippines | Dedicated 13 June 2010 |
+| ✅ | [Cedar City Utah Temple](https://www.churchofjesuschrist.org/temples/details/cedar-city-utah-temple?lang=eng) | Cedar City, Utah, United States | Dedicated 10 December 2017 |
+| ✅ | [Chicago Illinois Temple](https://www.churchofjesuschrist.org/temples/details/chicago-illinois-temple?lang=eng) | Glenview, Illinois, United States | Dedicated 9 August 1985 |
+| ✅ | [Ciudad Juárez Mexico Temple](https://www.churchofjesuschrist.org/temples/details/ciudad-juarez-mexico-temple?lang=eng) | Ciudad Juárez, Chihuahua, Mexico | Dedicated 26 February 2000 |
+| | [Cleveland Ohio Temple](https://www.churchofjesuschrist.org/temples/details/cleveland-ohio-temple?lang=eng) | | Announced |
+| | [Cobán Guatemala Temple](https://www.churchofjesuschrist.org/temples/details/coban-guatemala-temple?lang=eng) | | Construction |
+| ✅ | [Cochabamba Bolivia Temple](https://www.churchofjesuschrist.org/temples/details/cochabamba-bolivia-temple?lang=eng) | Alto Queru Queru, Cochabamba, Bolivia | Dedicated 30 April 2000 |
+| | [Cody Wyoming Temple](https://www.churchofjesuschrist.org/temples/details/cody-wyoming-temple?lang=eng) | | Announced |
+| ✅ | [Colonia Juárez Chihuahua Mexico Temple](https://www.churchofjesuschrist.org/temples/details/colonia-juarez-chihuahua-mexico-temple?lang=eng) | Colonia Juárez, Chihuahua, Mexico | Dedicated 6 March 1999 |
+| ✅ | [Columbia River Washington Temple](https://www.churchofjesuschrist.org/temples/details/columbia-river-washington-temple?lang=eng) | Richland, Washington, United States | Dedicated 18 November 2001 |
+| ✅ | [Columbia South Carolina Temple](https://www.churchofjesuschrist.org/temples/details/columbia-south-carolina-temple?lang=eng) | Hopkins, South Carolina, United States | Dedicated 16 October 1999 |
+| ✅ | [Columbus Ohio Temple](https://www.churchofjesuschrist.org/temples/details/columbus-ohio-temple?lang=eng) | Columbus, Ohio, United States | Renovation |
+| ✅ | [Concepción Chile Temple](https://www.churchofjesuschrist.org/temples/details/concepcion-chile-temple?lang=eng) | Concepcion, Chile | Dedicated 28 October 2018 |
+| ✅ | [Copenhagen Denmark Temple](https://www.churchofjesuschrist.org/temples/details/copenhagen-denmark-temple?lang=eng) | Frederiksberg, Hovedstaden, Denmark | Dedicated 23 May 2004 |
+| ✅ | [Córdoba Argentina Temple](https://www.churchofjesuschrist.org/temples/details/cordoba-argentina-temple?lang=eng) | Córdoba, Argentina | Dedicated 17 May 2015 |
+| | [Culiacán México Temple](https://www.churchofjesuschrist.org/temples/details/culiacan-mexico-temple?lang=eng) | | Announced |
+| ✅ | [Curitiba Brazil Temple](https://www.churchofjesuschrist.org/temples/details/curitiba-brazil-temple?lang=eng) | Curitiba, Parana, Brazil | Dedicated 1 June 2008 |
+| | [Cusco Peru Temple](https://www.churchofjesuschrist.org/temples/details/cusco-peru-temple?lang=eng) | | Announced |
+| ✅ | [Dallas Texas Temple](https://www.churchofjesuschrist.org/temples/details/dallas-texas-temple?lang=eng) | Dallas, Texas, United States | Dedicated 19 October 1984 |
+| | [Davao Philippines Temple](https://www.churchofjesuschrist.org/temples/details/davao-philippines-temple?lang=eng) | | Construction |
+| ✅ | [Denver Colorado Temple](https://www.churchofjesuschrist.org/temples/details/denver-colorado-temple?lang=eng) | Centennial, Colorado, United States | Dedicated 24 October 1986 |
+| | [Deseret Peak Utah Temple](https://www.churchofjesuschrist.org/temples/details/deseret-peak-utah-temple?lang=eng) | | Construction |
+| ✅ | [Detroit Michigan Temple](https://www.churchofjesuschrist.org/temples/details/detroit-michigan-temple?lang=eng) | Bloomfield Hills, Michigan, United States | Dedicated 23 October 1999 |
+| ✅ | [Draper Utah Temple](https://www.churchofjesuschrist.org/temples/details/draper-utah-temple?lang=eng) | Draper, Utah, United States | Dedicated 20 March 2009 |
+| | [Dubai United Arab Emirates Temple](https://www.churchofjesuschrist.org/temples/details/dubai-united-arab-emirates-temple?lang=eng) | | Announced |
+| ✅ | [Durban South Africa Temple](https://www.churchofjesuschrist.org/temples/details/durban-south-africa-temple?lang=eng) | Durban, South Africa | Dedicated 16 February 2020 |
+| ✅ | [Edmonton Alberta Temple](https://www.churchofjesuschrist.org/temples/details/edmonton-alberta-temple?lang=eng) | Edmonton, Alberta, Canada | Dedicated 11 December 1999 |
+| | [Elko Nevada Temple](https://www.churchofjesuschrist.org/temples/details/elko-nevada-temple?lang=eng) | | Announced |
+| | [Ephraim Utah Temple](https://www.churchofjesuschrist.org/temples/details/ephraim-utah-temple?lang=eng) | | Announced |
+| | [Farmington New Mexico Temple](https://www.churchofjesuschrist.org/temples/details/farmington-new-mexico-temple?lang=eng) | | Announced |
+| | [Feather River California Temple](https://www.churchofjesuschrist.org/temples/details/feather-river-california-temple?lang=eng) | | Construction |
+| ✅ | [Fort Collins Colorado Temple](https://www.churchofjesuschrist.org/temples/details/fort-collins-colorado-temple?lang=eng) | Fort Collins, Colorado, United States | Dedicated 16 October 2016 |
+| ✅ | [Fort Lauderdale Florida Temple](https://www.churchofjesuschrist.org/temples/details/fort-lauderdale-florida-temple?lang=eng) | Davie, Florida, United States | Dedicated 4 May 2014 |
+| | [Fort Worth Texas Temple](https://www.churchofjesuschrist.org/temples/details/fort-worth-texas-temple?lang=eng) | | Announced |
+| ✅ | [Fortaleza Brazil Temple](https://www.churchofjesuschrist.org/temples/details/fortaleza-brazil-temple?lang=eng) | Fortaleza, Ceará, Brazil | Dedicated 2 June 2019 |
+| ✅ | [Frankfurt Germany Temple](https://www.churchofjesuschrist.org/temples/details/frankfurt-germany-temple?lang=eng) | Friedrichsdorf, Hessen, Germany | Dedicated 28 August 1987 |
+| | [Freetown Sierra Leone Temple](https://www.churchofjesuschrist.org/temples/details/freetown-sierra-leone-temple?lang=eng) | | Announced |
+| ✅ | [Freiberg Germany Temple](https://www.churchofjesuschrist.org/temples/details/freiberg-germany-temple?lang=eng) | Freiberg, Sachsen, Germany | Dedicated 29 June 1985 |
+| ✅ | [Fresno California Temple](https://www.churchofjesuschrist.org/temples/details/fresno-california-temple?lang=eng) | Fresno, California, United States | Dedicated 9 April 2000 |
+| ✅ | [Fukuoka Japan Temple](https://www.churchofjesuschrist.org/temples/details/fukuoka-japan-temple?lang=eng) | Fukuoka-shi, Fukuoka, Japan | Dedicated 11 June 2000 |
+| ✅ | [Gila Valley Arizona Temple, The](https://www.churchofjesuschrist.org/temples/details/the-gila-valley-arizona-temple?lang=eng) | Central, Arizona, United States | Dedicated 23 May 2010 |
+| ✅ | [Gilbert Arizona Temple](https://www.churchofjesuschrist.org/temples/details/gilbert-arizona-temple?lang=eng) | Gilbert, Arizona, United States | Dedicated 2 March 2014 |
+| | [Grand Junction Colorado Temple](https://www.churchofjesuschrist.org/temples/details/grand-junction-colorado-temple?lang=eng) | | Announced |
+| | [Greater Guatemala City Guatemala Temple](https://www.churchofjesuschrist.org/temples/details/greater-guatemala-city-guatemala-temple?lang=eng) | | Announced |
+| ✅ | [Guadalajara Mexico Temple](https://www.churchofjesuschrist.org/temples/details/guadalajara-mexico-temple?lang=eng) | Zapopan, Jalisco, Mexico | Dedicated 29 April 2001 |
+| ✅ | [Guatemala City Guatemala Temple](https://www.churchofjesuschrist.org/temples/details/guatemala-city-guatemala-temple?lang=eng) | Guatemala City, Guatemala, Guatemala | Dedicated 14 December 1984 |
+| ✅ | [Guayaquil Ecuador Temple](https://www.churchofjesuschrist.org/temples/details/guayaquil-ecuador-temple?lang=eng) | Guayaquil, Guayas, Ecuador | Dedicated 1 August 1999 |
+| ✅ | [Hague Netherlands Temple, The](https://www.churchofjesuschrist.org/temples/details/the-hague-netherlands-temple?lang=eng) | Zoetermeer, Zuid-Holland, Netherlands | Dedicated 8 September 2002 |
+| ✅ | [Halifax Nova Scotia Temple](https://www.churchofjesuschrist.org/temples/details/halifax-nova-scotia-temple?lang=eng) | Dartmouth, Nova Scotia, Canada | Dedicated 14 November 1999 |
+| ✅ | [Hamilton New Zealand Temple](https://www.churchofjesuschrist.org/temples/details/hamilton-new-zealand-temple?lang=eng) | Hamilton, Auckland, New Zealand | Renovation |
+| | [Harare Zimbabwe Temple](https://www.churchofjesuschrist.org/temples/details/harare-zimbabwe-temple?lang=eng) | Harare, Zimbabwe | Construction |
+| ✅ | [Hartford Connecticut Temple](https://www.churchofjesuschrist.org/temples/details/hartford-connecticut-temple?lang=eng) | Farmington, Connecticut, United States | Dedicated 20 November 2016 |
+| | [Heber Valley Utah Temple](https://www.churchofjesuschrist.org/temples/details/heber-valley-utah-temple?lang=eng) | | Announced |
+| | [Helena Montana Temple](https://www.churchofjesuschrist.org/temples/details/helena-montana-temple?lang=eng) | | Construction |
+| ✅ | [Helsinki Finland Temple](https://www.churchofjesuschrist.org/temples/details/helsinki-finland-temple?lang=eng) | Espoo, Uusimaa, Finland | Dedicated 22 October 2006 |
+| ✅ | [Hermosillo Sonora Mexico Temple](https://www.churchofjesuschrist.org/temples/details/hermosillo-sonora-mexico-temple?lang=eng) | Hermosillo, Sonora, Mexico | Dedicated 27 February 2000 |
+| ✅ | [Hong Kong China Temple](https://www.churchofjesuschrist.org/temples/details/hong-kong-china-temple?lang=eng) | Kowloon Tong, Kowloon City, Hong Kong | Renovation |
+| ✅ | [Houston Texas Temple](https://www.churchofjesuschrist.org/temples/details/houston-texas-temple?lang=eng) | Spring, Texas, United States | Dedicated 26 August 2000 |
+| ✅ | [Idaho Falls Idaho Temple](https://www.churchofjesuschrist.org/temples/details/idaho-falls-idaho-temple?lang=eng) | Idaho Falls, Idaho, United States | Dedicated 23 September 1945 |
+| ✅ | [Indianapolis Indiana Temple](https://www.churchofjesuschrist.org/temples/details/indianapolis-indiana-temple?lang=eng) | Carmel, Indiana, United States | Dedicated 23 August 2015 |
+| ✅ | [Johannesburg South Africa Temple](https://www.churchofjesuschrist.org/temples/details/johannesburg-south-africa-temple?lang=eng) | Johannesburg, Gauteng, South Africa | Dedicated 24 August 1985 |
+| ✅ | [Jordan River Utah Temple](https://www.churchofjesuschrist.org/temples/details/jordan-river-utah-temple?lang=eng) | South Jordan, Utah, United States | Dedicated 16 November 1981 |
+| | [Kananga Democratic Republic of the Congo Temple](https://www.churchofjesuschrist.org/temples/details/kananga-democratic-republic-of-the-congo-temple?lang=eng) | | Announced |
+| ✅ | [Kansas City Missouri Temple](https://www.churchofjesuschrist.org/temples/details/kansas-city-missouri-temple?lang=eng) | Kansas City, Missouri, United States | Dedicated 6 May 2012 |
+| | [Kaohsiung Taiwan Temple](https://www.churchofjesuschrist.org/temples/details/kaohsiung-taiwan-temple?lang=eng) | | Announced |
+| ✅ | [Kinshasa Democratic Republic of the Congo Temple](https://www.churchofjesuschrist.org/temples/details/kinshasa-democratic-republic-of-the-congo-temple?lang=eng) | Kinshasa, Democratic Republic of the Congo | Dedicated 14 April 2019 |
+| ✅ | Kirtland Temple | | |
+| | [Knoxville Tennessee Temple](https://www.churchofjesuschrist.org/temples/details/knoxville-tennessee-temple?lang=eng) | | Announced |
+| ✅ | [Kona Hawaii Temple](https://www.churchofjesuschrist.org/temples/details/kona-hawaii-temple?lang=eng) | Kailua-Kona, Hawaii, United States | Dedicated 23 January 2000 |
+| | [Kumasi Ghana Temple](https://www.churchofjesuschrist.org/temples/details/kumasi-ghana-temple?lang=eng) | | Announced |
+| ✅ | [Kyiv Ukraine Temple](https://www.churchofjesuschrist.org/temples/details/kyiv-ukraine-temple?lang=eng) | Kyevo-Sviatoshyns’ky Rayon, Kyiv, Ukraine | Dedicated 29 August 2010 |
+| | [La Paz Bolivia Temple](https://www.churchofjesuschrist.org/temples/details/la-paz-bolivia-temple?lang=eng) | | Announced |
+| | [Lagos Nigeria Temple](https://www.churchofjesuschrist.org/temples/details/lagos-nigeria-temple?lang=eng) | | Announced |
+| ✅ | [Laie Hawaii Temple](https://www.churchofjesuschrist.org/temples/details/laie-hawaii-temple?lang=eng) | Laie, Hawaii, United States | Dedicated 27 November 1919 |
+| ✅ | [Las Vegas Nevada Temple](https://www.churchofjesuschrist.org/temples/details/las-vegas-nevada-temple?lang=eng) | Las Vegas, Nevada, United States | Dedicated 16 December 1989 |
+| ✅ | [Layton Utah Temple](https://www.churchofjesuschrist.org/temples/details/layton-utah-temple?lang=eng) | | Construction |
+| | [Lima Peru Los Olivos Temple](https://www.churchofjesuschrist.org/temples/details/lima-peru-los-olivos-temple?lang=eng) | Los Olivos, Lima, Peru | Construction |
+| ✅ | [Lima Peru Temple](https://www.churchofjesuschrist.org/temples/details/lima-peru-temple?lang=eng) | La Molina, Lima, Peru | Dedicated 10 January 1986 |
+| | [Lindon Utah Temple](https://www.churchofjesuschrist.org/temples/details/lindon-utah-temple?lang=eng) | | Announced |
+| ✅ | [Lisbon Portugal Temple](https://www.churchofjesuschrist.org/temples/details/lisbon-portugal-temple?lang=eng) | Lisbon, Portugal | Dedicated 15 September 2019 |
+| ✅ | [Logan Utah Temple](https://www.churchofjesuschrist.org/temples/details/logan-utah-temple?lang=eng) | Logan, Utah, United States | Dedicated 17 May 1884 |
+| ✅ | [London England Temple](https://www.churchofjesuschrist.org/temples/details/london-england-temple?lang=eng) | Newchapel, Surrey, England | Dedicated 7 September 1958 |
+| ✅ | [Los Angeles California Temple](https://www.churchofjesuschrist.org/temples/details/los-angeles-california-temple?lang=eng) | Los Angeles, California, United States | Dedicated 11 March 1956 |
+| ✅ | [Louisville Kentucky Temple](https://www.churchofjesuschrist.org/temples/details/louisville-kentucky-temple?lang=eng) | Crestwood, Kentucky, United States | Dedicated 19 March 2000 |
+| ✅ | [Lubbock Texas Temple](https://www.churchofjesuschrist.org/temples/details/lubbock-texas-temple?lang=eng) | Lubbock, Texas, United States | Dedicated 21 April 2002 |
+| | [Lubumbashi Democratic Republic of the Congo Temple](https://www.churchofjesuschrist.org/temples/details/lubumbashi-democratic-republic-of-the-congo-temple?lang=eng) | | Announced |
+| | [Maceió Brazil Temple](https://www.churchofjesuschrist.org/temples/details/maceio-brazil-temple?lang=eng) | | Announced |
+| ✅ | [Madrid Spain Temple](https://www.churchofjesuschrist.org/temples/details/madrid-spain-temple?lang=eng) | Madrid, Madrid, Spain | Dedicated 19 March 1999 |
+| | [Managua Nicaragua Temple](https://www.churchofjesuschrist.org/temples/details/managua-nicaragua-temple?lang=eng) | | Announced |
+| ✅ | [Manaus Brazil Temple](https://www.churchofjesuschrist.org/temples/details/manaus-brazil-temple?lang=eng) | Manaus, Amazonas, Brazil | Dedicated 10 June 2012 |
+| ✅ | [Manhattan New York Temple](https://www.churchofjesuschrist.org/temples/details/manhattan-new-york-temple?lang=eng) | New York, New York, United States | Dedicated 13 June 2004 |
+| ✅ | [Manila Philippines Temple](https://www.churchofjesuschrist.org/temples/details/manila-philippines-temple?lang=eng) | Quezon City, Metro Manila, Philippines | Dedicated 25 September 1984 |
+| ✅ | [Manti Utah Temple](https://www.churchofjesuschrist.org/temples/details/manti-utah-temple?lang=eng) | Manti, Utah, United States | Renovation |
+| | [McAllen Texas Temple](https://www.churchofjesuschrist.org/temples/details/mcallen-texas-temple?lang=eng) | | Construction |
+| ✅ | [Medford Oregon Temple](https://www.churchofjesuschrist.org/temples/details/medford-oregon-temple?lang=eng) | Central Point, Oregon, United States | Dedicated 16 April 2000 |
+| ✅ | [Melbourne Australia Temple](https://www.churchofjesuschrist.org/temples/details/melbourne-australia-temple?lang=eng) | Wantirna South, Victoria, Australia | Dedicated 16 June 2000 |
+| ✅ | [Memphis Tennessee Temple](https://www.churchofjesuschrist.org/temples/details/memphis-tennessee-temple?lang=eng) | Bartlett, Tennessee, United States | Dedicated 23 April 2000 |
+| | [Mendoza Argentina Temple](https://www.churchofjesuschrist.org/temples/details/mendoza-argentina-temple?lang=eng) | | Construction |
+| ✅ | [Mérida Mexico Temple](https://www.churchofjesuschrist.org/temples/details/merida-mexico-temple?lang=eng) | Mérida, Yucatan, Mexico | Dedicated 8 July 2000 |
+| ✅ | [Meridian Idaho Temple](https://www.churchofjesuschrist.org/temples/details/meridian-idaho-temple?lang=eng) | Meridian, Idaho, United States | Dedicated 19 November 2017 |
+| ✅ | [Mesa Arizona Temple](https://www.churchofjesuschrist.org/temples/details/mesa-arizona-temple?lang=eng) | Mesa, Arizona, United States | Dedicated 23 October 1927 |
+| | [Mexico City Benemérito Mexico Temple](https://www.churchofjesuschrist.org/temples/details/mexico-city-benemerito-mexico-temple?lang=eng) | | Announced |
+| ✅ | [Mexico City Mexico Temple](https://www.churchofjesuschrist.org/temples/details/mexico-city-mexico-temple?lang=eng) | México, Distrito Federal, Mexico | Dedicated 2 December 1983 |
+| | [Missoula Montana Temple](https://www.churchofjesuschrist.org/temples/details/missoula-montana-temple?lang=eng) | | Announced |
+| | [Modesto California Temple](https://www.churchofjesuschrist.org/temples/details/modesto-california-temple?lang=eng) | | Announced |
+| | [Monrovia Liberia Temple](https://www.churchofjesuschrist.org/temples/details/monrovia-liberia-temple?lang=eng) | | Announced |
+| ✅ | [Monterrey Mexico Temple](https://www.churchofjesuschrist.org/temples/details/monterrey-mexico-temple?lang=eng) | Monterrey, Nuevo Leon, Mexico | Dedicated 28 April 2002 |
+| ✅ | [Montevideo Uruguay Temple](https://www.churchofjesuschrist.org/temples/details/montevideo-uruguay-temple?lang=eng) | Carrasco, Montevideo, Uruguay | Dedicated 18 March 2001 |
+| ✅ | [Monticello Utah Temple](https://www.churchofjesuschrist.org/temples/details/monticello-utah-temple?lang=eng) | Monticello, Utah, United States | Dedicated 26 July 1998 |
+| | [Montpelier Idaho Temple](https://www.churchofjesuschrist.org/temples/details/montpelier-idaho-temple?lang=eng) | | Announced |
+| ✅ | [Montreal Quebec Temple](https://www.churchofjesuschrist.org/temples/details/montreal-quebec-temple?lang=eng) | Longueuil, Quebec, Canada | Dedicated 4 June 2000 |
+| ✅ | [Moses Lake Washington Temple](https://www.churchofjesuschrist.org/temples/details/moses-lake-washington-temple?lang=eng) | | Construction |
+| ✅ | [Mount Timpanogos Utah Temple](https://www.churchofjesuschrist.org/temples/details/mount-timpanogos-utah-temple?lang=eng) | American Fork, Utah, United States | Dedicated 13 October 1996 |
+| | [Nairobi Kenya Temple](https://www.churchofjesuschrist.org/temples/details/nairobi-kenya-temple?lang=eng) | Nairobi, Kenya | Announced |
+| ✅ | [Nashville Tennessee Temple](https://www.churchofjesuschrist.org/temples/details/nashville-tennessee-temple?lang=eng) | Franklin, Tennessee, United States | Dedicated 21 May 2000 |
+| ✅ | [Nauvoo Illinois Temple](https://www.churchofjesuschrist.org/temples/details/nauvoo-illinois-temple?lang=eng) | Nauvoo, Illinois, United States | Dedicated 27 June 2002 |
+| | [Neiafu Tonga Temple](https://www.churchofjesuschrist.org/temples/details/neiafu-tonga-temple?lang=eng) | | Construction |
+| ✅ | [Newport Beach California Temple](https://www.churchofjesuschrist.org/temples/details/newport-beach-california-temple?lang=eng) | Newport Beach, California, United States | Dedicated 28 August 2005 |
+| ✅ | [Nuku'alofa Tonga Temple](https://www.churchofjesuschrist.org/temples/details/nuku'alofa-tonga-temple?lang=eng) | Liahona, Tongatapu, Tonga | Dedicated 9 August 1983 |
+| ✅ | [Oakland California Temple](https://www.churchofjesuschrist.org/temples/details/oakland-california-temple?lang=eng) | Oakland, California, United States | Dedicated 17 November 1964 |
+| ✅ | [Oaxaca Mexico Temple](https://www.churchofjesuschrist.org/temples/details/oaxaca-mexico-temple?lang=eng) | Oaxaca, Oaxaca, Mexico | Dedicated 11 March 2000 |
+| ✅ | [Ogden Utah Temple](https://www.churchofjesuschrist.org/temples/details/ogden-utah-temple?lang=eng) | Ogden, Utah, United States | Dedicated 18 January 1972 |
+| | [Okinawa Japan Temple](https://www.churchofjesuschrist.org/temples/details/okinawa-japan-temple?lang=eng) | | Construction |
+| ✅ | [Oklahoma City Oklahoma Temple](https://www.churchofjesuschrist.org/temples/details/oklahoma-city-oklahoma-temple?lang=eng) | Yukon, Oklahoma, United States | Dedicated 30 July 2000 |
+| ✅ | [Oquirrh Mountain Utah Temple](https://www.churchofjesuschrist.org/temples/details/oquirrh-mountain-utah-temple?lang=eng) | South Jordan, Utah, United States | Dedicated 21 August 2009 |
+| | [Orem Utah Temple](https://www.churchofjesuschrist.org/temples/details/orem-utah-temple?lang=eng) | | Construction |
+| ✅ | [Orlando Florida Temple](https://www.churchofjesuschrist.org/temples/details/orlando-florida-temple?lang=eng) | Windermere, Florida, United States | Dedicated 9 October 1994 |
+| | [Oslo Norway Temple](https://www.churchofjesuschrist.org/temples/details/oslo-norway-temple?lang=eng) | | Announced |
+| | [Pago Pago American Samoa Temple](https://www.churchofjesuschrist.org/temples/details/pago-pago-american-samoa-temple?lang=eng) | | Construction |
+| ✅ | [Palmyra New York Temple](https://www.churchofjesuschrist.org/temples/details/palmyra-new-york-temple?lang=eng) | Palmyra, New York, United States | Dedicated 6 April 2000 |
+| ✅ | [Panama City Panama Temple](https://www.churchofjesuschrist.org/temples/details/panama-city-panama-temple?lang=eng) | Corozal, Ancon, Panamá, Panama | Dedicated 10 August 2008 |
+| ✅ | [Papeete Tahiti Temple](https://www.churchofjesuschrist.org/temples/details/papeete-tahiti-temple?lang=eng) | Papeete, Tahiti, French Polynesia | Dedicated 27 October 1983 |
+| ✅ | [Paris France Temple](https://www.churchofjesuschrist.org/temples/details/paris-france-temple?lang=eng) | Le Chesnay, France | Dedicated 21 May 2017 |
+| ✅ | [Payson Utah Temple](https://www.churchofjesuschrist.org/temples/details/payson-utah-temple?lang=eng) | Payson, Utah, United States | Dedicated 7 June 2015 |
+| ✅ | [Perth Australia Temple](https://www.churchofjesuschrist.org/temples/details/perth-australia-temple?lang=eng) | Yokine, Western Australia, Australia | Dedicated 20 May 2001 |
+| ✅ | [Philadelphia Pennsylvania Temple](https://www.churchofjesuschrist.org/temples/details/philadelphia-pennsylvania-temple?lang=eng) | Philadelphia, Pennsylvania, United States | Dedicated 18 September 2016 |
+| | [Phnom Penh Cambodia Temple](https://www.churchofjesuschrist.org/temples/details/phnom-penh-cambodia-temple?lang=eng) | | Construction |
+| ✅ | [Phoenix Arizona Temple](https://www.churchofjesuschrist.org/temples/details/phoenix-arizona-temple?lang=eng) | Phoenix, Arizona, United States | Dedicated 16 November 2014 |
+| | [Pittsburgh Pennsylvania Temple](https://www.churchofjesuschrist.org/temples/details/pittsburgh-pennsylvania-temple?lang=eng) | | Construction |
+| ✅ | [Pocatello Idaho Temple](https://www.churchofjesuschrist.org/temples/details/pocatello-idaho-temple?lang=eng) | Pocatello, Idaho, United States | Dedicated 7 November 2021 |
+| | [Port Moresby Papua New Guinea Temple](https://www.churchofjesuschrist.org/temples/details/port-moresby-papua-new-guinea-temple?lang=eng) | | Announced |
+| | [Port Vila Vanuatu Temple](https://www.churchofjesuschrist.org/temples/details/port-vila-vanuatu-temple?lang=eng) | | Announced |
+| ✅ | [Port-au-Prince Haiti Temple](https://www.churchofjesuschrist.org/temples/details/port-au-prince-haiti-temple?lang=eng) | Port-au-Prince, Haiti | Dedicated 1 September 2019 |
+| ✅ | [Portland Oregon Temple](https://www.churchofjesuschrist.org/temples/details/portland-oregon-temple?lang=eng) | Lake Oswego, Oregon, United States | Dedicated 19 August 1989 |
+| ✅ | [Porto Alegre Brazil Temple](https://www.churchofjesuschrist.org/temples/details/porto-alegre-brazil-temple?lang=eng) | Porto Alegre, Rio Grande do Sul, Brazil | Dedicated 17 December 2000 |
+| | [Praia Cape Verde Temple](https://www.churchofjesuschrist.org/temples/details/praia-cape-verde-temple?lang=eng) | Praia, Cape Verde | Construction |
+| ✅ | [Preston England Temple](https://www.churchofjesuschrist.org/temples/details/preston-england-temple?lang=eng) | Chorley, Lancashire, England | Dedicated 7 June 1998 |
+| ✅ | [Provo City Center Temple](https://www.churchofjesuschrist.org/temples/details/provo-city-center-temple?lang=eng) | Provo, Utah, United States | Dedicated 20 March 2016 |
+| ✅ | [Provo Utah Temple](https://www.churchofjesuschrist.org/temples/details/provo-utah-temple?lang=eng) | Provo, Utah, United States | Dedicated 9 February 1972 |
+| | [Puebla Mexico Temple](https://www.churchofjesuschrist.org/temples/details/puebla-mexico-temple?lang=eng) | Puebla, Puebla, Mexico | Construction |
+| | [Querétaro Mexico Temple](https://www.churchofjesuschrist.org/temples/details/queretaro-mexico-temple?lang=eng) | | Announced |
+| ✅ | [Quetzaltenango Guatemala Temple](https://www.churchofjesuschrist.org/temples/details/quetzaltenango-guatemala-temple?lang=eng) | Quetzaltenango, Quezaltenango, Guatemala | Dedicated 11 December 2011 |
+| | [Quito Ecuador Temple](https://www.churchofjesuschrist.org/temples/details/quito-ecuador-temple?lang=eng) | Quito, Equador | Construction |
+| ✅ | [Raleigh North Carolina Temple](https://www.churchofjesuschrist.org/temples/details/raleigh-north-carolina-temple?lang=eng) | Apex, North Carolina, United States | Dedicated 18 December 1999 |
+| ✅ | [Recife Brazil Temple](https://www.churchofjesuschrist.org/temples/details/recife-brazil-temple?lang=eng) | Recife, Pernambuco, Brazil | Dedicated 15 December 2000 |
+| | [Red Cliffs Utah Temple](https://www.churchofjesuschrist.org/temples/details/red-cliffs-utah-temple?lang=eng) | | Construction |
+| ✅ | [Redlands California Temple](https://www.churchofjesuschrist.org/temples/details/redlands-california-temple?lang=eng) | Redlands, California, United States | Dedicated 14 September 2003 |
+| ✅ | [Regina Saskatchewan Temple](https://www.churchofjesuschrist.org/temples/details/regina-saskatchewan-temple?lang=eng) | Regina, Saskatchewan, Canada | Dedicated 14 November 1999 |
+| ✅ | [Reno Nevada Temple](https://www.churchofjesuschrist.org/temples/details/reno-nevada-temple?lang=eng) | Reno, Nevada, United States | Dedicated 23 April 2000 |
+| ✅ | [Rexburg Idaho Temple](https://www.churchofjesuschrist.org/temples/details/rexburg-idaho-temple?lang=eng) | Rexburg, Idaho, United States | Dedicated 10 February 2008 |
+| | [Rexburg North Idaho Temple](https://www.churchofjesuschrist.org/temples/details/rexburg-north-idaho-temple?lang=eng) | | Announced |
+| | [Richmond Virginia Temple](https://www.churchofjesuschrist.org/temples/details/richmond-virginia-temple?lang=eng) | | Construction |
+| ✅ | [Rio de Janeiro Brazil Temple](https://www.churchofjesuschrist.org/temples/details/rio-de-janeiro-brazil-temple?lang=eng) | Rio de Janeiro, Brazil | Construction |
+| ✅ | [Rome Italy Temple](https://www.churchofjesuschrist.org/temples/details/rome-italy-temple?lang=eng) | Rome, Roma, Italy | Dedicated 10 March 2019 |
+| | [Russia Temple](https://www.churchofjesuschrist.org/temples/details/russia-temple?lang=eng) | | Announced |
+| ✅ | [Sacramento California Temple](https://www.churchofjesuschrist.org/temples/details/sacramento-california-temple?lang=eng) | Rancho Cordova, California, United States | Dedicated 3 September 2006 |
+| ✅ | [Salt Lake Temple](https://www.churchofjesuschrist.org/temples/details/salt-lake-temple?lang=eng) | Salt Lake City, Utah, United States | Renovation |
+| | [Salta Argentina Temple](https://www.churchofjesuschrist.org/temples/details/salta-argentina-temple?lang=eng) | | Construction |
+| | [Salvador Brazil Temple](https://www.churchofjesuschrist.org/temples/details/salvador-brazil-temple?lang=eng) | | Construction |
+| ✅ | [San Antonio Texas Temple](https://www.churchofjesuschrist.org/temples/details/san-antonio-texas-temple?lang=eng) | San Antonio, Texas, United States | Dedicated 22 May 2005 |
+| ✅ | [San Diego California Temple](https://www.churchofjesuschrist.org/temples/details/san-diego-california-temple?lang=eng) | San Diego, California, United States | Dedicated 25 April 1993 |
+| ✅ | [San José Costa Rica Temple](https://www.churchofjesuschrist.org/temples/details/san-jose-costa-rica-temple?lang=eng) | Belén, Heredia, Costa Rica | Dedicated 4 June 2000 |
+| ✅ | [San Juan Puerto Rico Temple](https://www.churchofjesuschrist.org/temples/details/san-juan-puerto-rico-temple?lang=eng) | San Juan, Puerto Rico | Construction |
+| | [San Luis Potosí Mexico Temple](https://www.churchofjesuschrist.org/temples/details/san-luis-potosi-mexico-temple?lang=eng) | | Announced |
+| | [San Pedro Sula Honduras Temple](https://www.churchofjesuschrist.org/temples/details/san-pedro-sula-honduras-temple?lang=eng) | | Construction |
+| ✅ | [San Salvador El Salvador Temple](https://www.churchofjesuschrist.org/temples/details/san-salvador-el-salvador-temple?lang=eng) | Antiguo Cuscatlán, La Libertad, El Salvador | Dedicated 21 August 2011 |
+| | [Santa Cruz Bolivia Temple](https://www.churchofjesuschrist.org/temples/details/santa-cruz-bolivia-temple?lang=eng) | | Announced |
+| ✅ | [Santiago Chile Temple](https://www.churchofjesuschrist.org/temples/details/santiago-chile-temple?lang=eng) | Providencia, Santiago, Chile | Dedicated 15 September 1983 |
+| | [Santiago West Chile Temple](https://www.churchofjesuschrist.org/temples/details/santiago-west-chile-temple?lang=eng) | | Announced |
+| ✅ | [Santo Domingo Dominican Republic Temple](https://www.churchofjesuschrist.org/temples/details/santo-domingo-dominican-republic-temple?lang=eng) | Santo Domingo, Distrito Nacional, Dominican Republic | Dedicated 17 September 2000 |
+| | [Santos Brazil Temple](https://www.churchofjesuschrist.org/temples/details/santos-brazil-temple?lang=eng) | | Announced |
+| ✅ | [São Paulo Brazil Temple](https://www.churchofjesuschrist.org/temples/details/sao-paulo-brazil-temple?lang=eng) | São Paulo, Sao Paulo, Brazil | Dedicated 30 October 1978 |
+| | [São Paulo East Brazil Temple](https://www.churchofjesuschrist.org/temples/details/sao-paulo-east-brazil-temple?lang=eng) | | Announced |
+| ✅ | [Sapporo Japan Temple](https://www.churchofjesuschrist.org/temples/details/sapporo-japan-temple?lang=eng) | Atsubetsu-ku Sapporo, Hokkaido, Japan | Dedicated 21 August 2016 |
+| ✅ | [Saratoga Springs Utah Temple](https://www.churchofjesuschrist.org/temples/details/saratoga-springs-utah-temple?lang=eng) | Saratoga Springs, Utah, United States | Construction |
+| ✅ | [Seattle Washington Temple](https://www.churchofjesuschrist.org/temples/details/seattle-washington-temple?lang=eng) | Bellevue, Washington, United States | Dedicated 17 November 1980 |
+| ✅ | [Seoul Korea Temple](https://www.churchofjesuschrist.org/temples/details/seoul-korea-temple?lang=eng) | Seoul, Seoul-teukbyeolsi, South Korea | Dedicated 14 December 1985 |
+| | [Shanghai People’s Republic of China Temple](https://www.churchofjesuschrist.org/temples/details/shanghai-people%E2%80%99s-republic-of-china-temple?lang=eng) | | Announced |
+| | [Singapore Republic of Singapore Temple](https://www.churchofjesuschrist.org/temples/details/singapore-republic-of-singapore-temple?lang=eng) | | Announced |
+| | [Smithfield Utah Temple](https://www.churchofjesuschrist.org/temples/details/smithfield-utah-temple?lang=eng) | | Announced |
+| ✅ | [Snowflake Arizona Temple](https://www.churchofjesuschrist.org/temples/details/snowflake-arizona-temple?lang=eng) | Snowflake, Arizona, United States | Dedicated 3 March 2002 |
+| ✅ | [Spokane Washington Temple](https://www.churchofjesuschrist.org/temples/details/spokane-washington-temple?lang=eng) | Spokane, Washington, United States | Dedicated 21 August 1999 |
+| ✅ | [St. George Utah Temple](https://www.churchofjesuschrist.org/temples/details/st.-george-utah-temple?lang=eng) | St. George, Utah, United States | Renovation |
+| ✅ | [St. Louis Missouri Temple](https://www.churchofjesuschrist.org/temples/details/st.-louis-missouri-temple?lang=eng) | St. Louis, Missouri, United States | Dedicated 1 June 1997 |
+| ✅ | [St. Paul Minnesota Temple](https://www.churchofjesuschrist.org/temples/details/st.-paul-minnesota-temple?lang=eng) | Oakdale, Minnesota, United States | Dedicated 9 January 2000 |
+| ✅ | [Star Valley Wyoming Temple](https://www.churchofjesuschrist.org/temples/details/star-valley-wyoming-temple?lang=eng) | Afton, Wyoming, United States | Dedicated 30 October 2016 |
+| ✅ | [Stockholm Sweden Temple](https://www.churchofjesuschrist.org/temples/details/stockholm-sweden-temple?lang=eng) | Vasterhaninge, Sweden | Dedicated 2 July 1985 |
+| ✅ | [Suva Fiji Temple](https://www.churchofjesuschrist.org/temples/details/suva-fiji-temple?lang=eng) | Samabula, Suva, Fiji | Dedicated 18 June 2000 |
+| ✅ | [Sydney Australia Temple](https://www.churchofjesuschrist.org/temples/details/sydney-australia-temple?lang=eng) | Carlingford, New South Wales, Australia | Dedicated 20 September 1984 |
+| | [Syracuse Utah Temple](https://www.churchofjesuschrist.org/temples/details/syracuse-utah-temple?lang=eng) | | Construction |
+| | [Tacloban City Philippines Temple](https://www.churchofjesuschrist.org/temples/details/tacloban-city-philippines-temple?lang=eng) | | Announced |
+| ✅ | [Taipei Taiwan Temple](https://www.churchofjesuschrist.org/temples/details/taipei-taiwan-temple?lang=eng) | Taipei, Taipei, Taiwan | Dedicated 17 November 1984 |
+| | [Tallahassee Florida Temple](https://www.churchofjesuschrist.org/temples/details/tallahassee-florida-temple?lang=eng) | | Construction |
+| | [Tampa Florida Temple](https://www.churchofjesuschrist.org/temples/details/tampa-florida-temple?lang=eng) | | Announced |
+| ✅ | [Tampico Mexico Temple](https://www.churchofjesuschrist.org/temples/details/tampico-mexico-temple?lang=eng) | Ciudad Madero, Tamaulipas, Mexico | Dedicated 20 May 2000 |
+| | [Tarawa Kiribati Temple](https://www.churchofjesuschrist.org/temples/details/tarawa-kiribati-temple?lang=eng) | | Announced |
+| | [Taylorsville Utah Temple](https://www.churchofjesuschrist.org/temples/details/taylorsville-utah-temple?lang=eng) | Taylorsville, Utah, United States | Construction |
+| ✅ | [Tegucigalpa Honduras Temple](https://www.churchofjesuschrist.org/temples/details/tegucigalpa-honduras-temple?lang=eng) | Comayagüela, Francisco Morazán, Honduras | Dedicated 17 March 2013 |
+| ✅ | [Tijuana Mexico Temple](https://www.churchofjesuschrist.org/temples/details/tijuana-mexico-temple?lang=eng) | Tijuana, Baja California, Mexico | Dedicated 13 December 2015 |
+| ✅ | [Tokyo Japan Temple](https://www.churchofjesuschrist.org/temples/details/tokyo-japan-temple?lang=eng) | Minato-ku, Tokyo, Japan | Renovation |
+| ✅ | [Toronto Ontario Temple](https://www.churchofjesuschrist.org/temples/details/toronto-ontario-temple?lang=eng) | Brampton, Ontario, Canada | Dedicated 25 August 1990 |
+| | [Torreón Mexico Temple](https://www.churchofjesuschrist.org/temples/details/torreon-mexico-temple?lang=eng) | | Announced |
+| ✅ | [Trujillo Peru Temple](https://www.churchofjesuschrist.org/temples/details/trujillo-peru-temple?lang=eng) | Trujillo, La Libertad, Peru | Dedicated 21 June 2015 |
+| ✅ | [Tucson Arizona Temple](https://www.churchofjesuschrist.org/temples/details/tucson-arizona-temple?lang=eng) | Tucson, Arizona, United States | Dedicated 13 August 2017 |
+| ✅ | [Tuxtla Gutiérrez Mexico Temple](https://www.churchofjesuschrist.org/temples/details/tuxtla-gutierrez-mexico-temple?lang=eng) | Tuxtla Gutiérrez, Chiapas, Mexico | Dedicated 12 March 2000 |
+| ✅ | [Twin Falls Idaho Temple](https://www.churchofjesuschrist.org/temples/details/twin-falls-idaho-temple?lang=eng) | Twin Falls, Idaho, United States | Dedicated 24 August 2008 |
+| ✅ | [Urdaneta Philippines Temple](https://www.churchofjesuschrist.org/temples/details/urdaneta-philippines-temple?lang=eng) | Urdaneta, Pangasinan, Philippines | Construction |
+| ✅ | [Vancouver British Columbia Temple](https://www.churchofjesuschrist.org/temples/details/vancouver-british-columbia-temple?lang=eng) | Langley, British Columbia, Canada | Dedicated 2 May 2010 |
+| ✅ | [Veracruz Mexico Temple](https://www.churchofjesuschrist.org/temples/details/veracruz-mexico-temple?lang=eng) | Boca del Rio, Veracruz, Mexico | Dedicated 9 July 2000 |
+| ✅ | [Vernal Utah Temple](https://www.churchofjesuschrist.org/temples/details/vernal-utah-temple?lang=eng) | Vernal, Utah, United States | Dedicated 2 November 1997 |
+| | [Vienna Austria Temple](https://www.churchofjesuschrist.org/temples/details/vienna-austria-temple?lang=eng) | | Announced |
+| ✅ | [Villahermosa Mexico Temple](https://www.churchofjesuschrist.org/temples/details/villahermosa-mexico-temple?lang=eng) | Villahermosa, Tabasco, Mexico | Dedicated 21 May 2000 |
+| | [Vitória Brazil Temple](https://www.churchofjesuschrist.org/temples/details/vitoria-brazil-temple?lang=eng) | | Announced |
+| ✅ | [Washington D.C. Temple](https://www.churchofjesuschrist.org/temples/details/washington-d.c.-temple?lang=eng) | Kensington, Maryland, United States | Renovation |
+| | [Wellington New Zealand Temple](https://www.churchofjesuschrist.org/temples/details/wellington-new-zealand-temple?lang=eng) | | Announced |
+| | [Wichita Kansas Temple](https://www.churchofjesuschrist.org/temples/details/wichita-kansas-temple?lang=eng) | | Announced |
+| | [Willamette Valley Oregon Temple](https://www.churchofjesuschrist.org/temples/details/willamette-valley-oregon-temple?lang=eng) | | Announced |
+| | [Winnipeg Manitoba Temple](https://www.churchofjesuschrist.org/temples/details/winnipeg-manitoba-temple?lang=eng) | Winnipeg, Manitoba, Canada | Dedicated 31 October 2021 |
+| | [Winter Quarters Nebraska Temple](https://www.churchofjesuschrist.org/temples/details/winter-quarters-nebraska-temple?lang=eng) | Omaha, Nebraska, United States | Dedicated 22 April 2001 |
+| | [Yigo Guam Temple](https://www.churchofjesuschrist.org/temples/details/yigo-guam-temple?lang=eng) | Yigo, Guam | Construction |
+| | [Yorba Linda California Temple](https://www.churchofjesuschrist.org/temples/details/yorba-linda-california-temple?lang=eng) | Announced | |
+|
+|Totals
+|✅| 178 available
+||105 pending
