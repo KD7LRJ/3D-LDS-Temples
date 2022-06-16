@@ -1,7 +1,7 @@
 # 3D-temples
 3D models of temples of The Church of Jesus Christ of Latter-Day Saints
 
-Currently (2022-03-18) all of these files were created by Hugh Lyman and being organized here to facilitate their mantenance and sharing as the original repository (Thingiverse) has been unstable.
+Currently (2022-06-16) all of these files were created by Hugh Lyman and being organized here to facilitate their mantenance and sharing as the original repository (Thingiverse) has been unstable.
 
 These files have been placed here with Hugh's permission in hopes that this repository will provide better access, discussions, update tracking, etc.
 
@@ -24,7 +24,7 @@ To __download individual__ files:
     [ ] = model comming soon
 
 - [x] Aba Nigeria Temple
-- [ ] Abidjan Ivory Coast Temple*
+- [x] Abidjan Ivory Coast Temple*
 - [x] Accra Ghana Temple
 - [x] Adelaide Australia Temple
 - [x] Alabang Philippines Temple*
@@ -291,5 +291,5 @@ To __download individual__ files:
 - [ ] Yorba Linda California Temple*
 
 #### Total
-- [x] 178
-- [ ] 89
+- [x] 179
+- [ ] 88
