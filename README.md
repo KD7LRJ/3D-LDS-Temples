@@ -260,7 +260,7 @@ To __download individual__ files:
 - [x] Stockholm Sweden Temple
 - [x] Suva Fiji Temple
 - [x] Sydney Australia Temple
-- [ ] Syracuse Utah Temple*
+- [x] Syracuse Utah Temple*
 - [ ] Tacloban City Philippines Temple*
 - [x] Taipei Taiwan Temple
 - [ ] Tallahassee Florida Temple*
@@ -291,5 +291,5 @@ To __download individual__ files:
 - [ ] Yorba Linda California Temple*
 
 #### Total
-- [x] 179
-- [ ] 88
+- [x] 180
+- [ ] 87
