@@ -43,7 +43,7 @@ To __download individual__ files:
 - [x] Barranquilla Colombia Temple
 - [x] Baton Rouge Louisiana Temple
 - [ ] Beira Mozambique Temple*
-- [ ] Belém Brazil Temple*
+- [x] Belém Brazil Temple*
 - [ ] Belo Horizonte Brazil Temple*
 - [ ] Bengaluru India Temple*
 - [ ] Benin City Nigeria Temple*
@@ -146,7 +146,7 @@ To __download individual__ files:
 - [x] Layton Utah Temple*
 - [ ] Lima Peru Los Olivos Temple*
 - [x] Lima Peru Temple
-- [ ] Lindon Utah Temple*
+- [x] Lindon Utah Temple*
 - [x] Lisbon Portugal Temple
 - [x] Logan Utah Temple
 - [x] London England Temple
@@ -199,7 +199,7 @@ To __download individual__ files:
 - [x] Payson Utah Temple
 - [x] Perth Australia Temple
 - [x] Philadelphia Pennsylvania Temple
-- [ ] Phnom Penh Cambodia Temple*
+- [x] Phnom Penh Cambodia Temple*
 - [x] Phoenix Arizona Temple
 - [ ] Pittsburgh Pennsylvania Temple*
 - [x] Pocatello Idaho Temple
@@ -266,7 +266,7 @@ To __download individual__ files:
 - [ ] Tallahassee Florida Temple*
 - [x] Tampico Mexico Temple
 - [ ] Tarawa Kiribati Temple*
-- [ ] Taylorsville Utah Temple*
+- [x] Taylorsville Utah Temple*
 - [x] Tegucigalpa Honduras Temple
 - [x] Tijuana Mexico Temple
 - [x] Tokyo Japan Temple**
@@ -291,5 +291,5 @@ To __download individual__ files:
 - [ ] Yorba Linda California Temple*
 
 #### Total
-- [x] 180
-- [ ] 87
+- [x] 184
+- [ ] 83
