@@ -1,3 +1,5 @@
 *.old
 *.bak
 *:Zone.Identifier
+desktop.ini
+STL/desktop.ini
